@@ -1,5 +1,5 @@
-# TSN_ANDROID_DEMO_HELLO
-Простейшая программа суммы двух цифр на Android
+# LIR_Lab_2
+
 
 ![Screenshot](screenshot.png)
 
